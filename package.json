@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@hydroswap/sdk",
   "license": "MIT",
-  "version": "2.4.3",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "version": "0.0.1",
+  "description": "An SDK for building applications on top of Hydroswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/HydroBlockchain/hydroswap-v2-sdk",
   "keywords": [
-    "pancakeswap",
+    "hydroswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
